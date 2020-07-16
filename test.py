@@ -1,4 +1,5 @@
-def sum_mul(a,b):
+def sum_mul_div(a,b):
   print(a+b)
   print(a*b)
-sum(4,5)
+  print(a/b)
+sum_mul_div(40,5)
